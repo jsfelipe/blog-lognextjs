@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Sistema Jobb",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/logo-jobb-square.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Blog audiovisual",
     bio: "Sistema para produtoras de video, audio e agencias de eventos",
     email: "atendimento@sistemajobb.com.br",
