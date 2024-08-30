@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Blog Sistema Jobb",
-    description: "Notícias do audiovisual e blog oficial do Sistema Jobb, Gestão para prosutoras do audiovisual e eventos",
+    description: "Notícias do audiovisual e blog oficial do Sistema Jobb, Gestão para produtoras do audiovisual e eventos",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
